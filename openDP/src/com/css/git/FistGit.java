@@ -1,8 +1,7 @@
 package com.css.git;
 
 public class FistGit {
-	  protected final static long serialVersionUID = -7882200810131008L;
-	  public FistGit() {}
+
 
 	  public FistGit(FistGit server)
 	  {
