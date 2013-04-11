@@ -9,4 +9,8 @@ public class FistGit {
 	public void tools1(){
 		
 	}
+	
+	public void tools2(){
+		
+	}
 }
