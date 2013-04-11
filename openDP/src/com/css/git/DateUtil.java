@@ -5,7 +5,7 @@ package com.css.git;
 
 /**
  * @author weijg
- *
+ * @version 1.0
  */
 public class DateUtil {
 
