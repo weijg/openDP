@@ -21,7 +21,15 @@ public class FistGit {
 	    this.onLineState     = server.getOnLineState();
 	  }
 
-	  private String guid = "";
+	  private String xserver;
+	  public String getXserver() {
+		return xserver;
+	}
+	public void setXserver(String xserver) {
+		this.xserver = xserver;
+	}
+
+	private String guid = "";
 
 	  //µÃµ½Guid ºÅ
 	  public String getGuid()
